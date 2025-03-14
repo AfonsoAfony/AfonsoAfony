@@ -19,7 +19,7 @@ _____________
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfonsoAfony&show_icons=true&theme=radical)
 </div>
 
-<div">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="5%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="5%">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="5%" />
